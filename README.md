@@ -1,5 +1,7 @@
 # JupyterLab Walkthrough
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/jupyterday-atlanta-2016/jupyterlab-walkthrough/lab)
+
 Talk given at Jupyter Days Atlanta, Aug 13, 2016.
 
 The audience should get a tour of the latest features of JupyterLab. The audience should learn about the intended path of JupyterLab development and how third party extensions will be added.
